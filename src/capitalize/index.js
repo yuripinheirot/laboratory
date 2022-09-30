@@ -1,7 +1,7 @@
 const _ = require('lodash')
 
-const string1 = 'alguma coisa'
-const string2 = 'ALGUMA COISA'
+const string1 = 'SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS'
+const string2 = 'ALGUMA coisa'
 const string3 = 'ALGUMA'
 const string4 = 'coisa'
 
@@ -9,8 +9,7 @@ const stringCapitalized = (input) => {
   return input
     .split(' ')
     .map((word) => _.capitalize(word))
-    .join()
-    .replace(',', ' ')
+    .join(' ')
 }
 
 console.log(stringCapitalized(string1))
