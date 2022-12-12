@@ -1,0 +1,182 @@
+{
+  "errors": {
+    "error": [
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderOccupation",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "relationshipToReceiver",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sourceOfFunds",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sendPurposeOfTransaction",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderIntendedUseOfMGIServices",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderOccupation",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "relationshipToReceiver",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sourceOfFunds",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sendPurposeOfTransaction",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderIntendedUseOfMGIServices",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderOccupation",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "relationshipToReceiver",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sourceOfFunds",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sendPurposeOfTransaction",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderIntendedUseOfMGIServices",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderOccupation",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "relationshipToReceiver",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sourceOfFunds",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sendPurposeOfTransaction",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderIntendedUseOfMGIServices",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderOccupation",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "relationshipToReceiver",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sourceOfFunds",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "sendPurposeOfTransaction",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      },
+      {
+        "errorCode": "100",
+        "errorString": "Um ou mais campos obrigatórios em branco",
+        "subErrorCode": "92412",
+        "offendingField": "senderIntendedUseOfMGIServices",
+        "timeStamp": "2022-10-03T14:05:34.114-05:00"
+      }
+    ]
+  },
+  "exceptionName": "com.moneygram.agentconnect.soap.ACException"
+}
